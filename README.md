@@ -12,3 +12,9 @@ Project starting - HTML structure coming soon!
 
 ### 🤝 Contributions
 Suggestions & PRs are welcome!
+
+## To Do List
+- [ ] Add layout
+- [ ] Add breed cards
+- [ ] Add images
+- [ ] Add search/filter
